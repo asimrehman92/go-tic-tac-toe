@@ -13,13 +13,12 @@ func main() {
 	// 	"Project": "Tic Tac Toe",
 	// })
 
-	// var w1, w2, w3 string
+	// var w1, w2 string
 	// log.Info("Please Enter Player 1 name: ")
-	// fmt.Scan(&w1, &w2, &w3)
+	// fmt.Scan(&w1, &w2)
 	// log.WithFields(log.Fields{
 	// 	"w1": w1,
 	// 	"w2": w2,
-	// 	"w3": w3,
 	// })
 
 }
